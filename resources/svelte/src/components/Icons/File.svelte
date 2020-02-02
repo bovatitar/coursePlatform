@@ -1,0 +1,1 @@
+<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" data-svg="file"><rect fill="none" stroke="#000" x="3.5" y="1.5" width="13" height="17"></rect></svg>
